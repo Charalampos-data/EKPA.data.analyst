@@ -1,4 +1,4 @@
-# EKPA.data.analyst
+# Example of README.md
 
 This seminar is [**Data Analyst**](https://elearningekpa.gr/courses/data-analyst)
 
